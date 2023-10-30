@@ -7,7 +7,7 @@ Klear is a smart monitoring solution that helps daycare workers keep their child
 
 Table of Contents
 ---
-- [Demo Video](./demo/demo.mp4)
+- [Demo Video](./demo/demo_video.md)
 - [Demo Writeup](./demo/demo_writeup.md)
 - [Product Research](./product_research/)
 - [Mobile App Repo](https://github.com/kerryzhu108/Klear-Frontend)
