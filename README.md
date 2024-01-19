@@ -1,6 +1,6 @@
-# Klear
+## Klear
 
-<img src="./klear_logo.png" alt="Klear Logo" width="250"/>
+<img src="./klear_logo.png" alt="Klear Logo" width="150"/>
 
 Table of Contents
 ---
